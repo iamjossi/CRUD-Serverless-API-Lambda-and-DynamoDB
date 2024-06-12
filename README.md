@@ -1,5 +1,6 @@
 # CRUD-Serverless-API-Lambda-and-DynamoDB
 Create a REST API IN API Gateway with all endpoints(resources and methods)
+
 Resources      Methods
   .Employee - GET, PATCH,POST,DELETE
   .Employees - GET
